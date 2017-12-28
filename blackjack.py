@@ -1,4 +1,6 @@
-
+#Blackjack Simulator, used for testing the payout of varying strategies over the inbetween side bet.
+#can be easily modified for more robust betting strategy, currently uses defacto dealer betting strategy.
+#table/dealer, deck, and player all abstracted to distinct objects.
 import random
 
 
